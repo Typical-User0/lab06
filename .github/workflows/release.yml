@@ -1,4 +1,4 @@
-name: Push_release_w/_tag
+name: release
 
 on:
   push:
